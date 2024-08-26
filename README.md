@@ -46,12 +46,12 @@ npm install
 Set up environment variables:
 Create a .env file in the server directory with your environment variables (e.g., database connection, JWT secret).
 
-Start the server:
-npm start
-
 to install dependency for client
 cd client
 npm install
 
-Start the server and client open cmd in folder which have client and all structure folder for server
+Start the Server and Client:
+Open a command prompt in the root directory (where the server folder is located).
+
+Run the following command to start both the server and client:
 npm start
