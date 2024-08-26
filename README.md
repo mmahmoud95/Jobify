@@ -10,7 +10,7 @@ Jobify Dashboard is a full-stack job management application that allows users to
 - **Tester User:** A demo user account for testing and exploring the dashboard.
 
 ### 2. Job Statistics
-- **Status Page:** Displays job-related statistics including:
+- **Statistics Page:** Displays job-related statistics including:
   - Pending applications
   - Scheduled interviews
   - Declined jobs
