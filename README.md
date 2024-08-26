@@ -3,6 +3,11 @@
 ## Overview
 Jobify Dashboard is a full-stack job management application that allows users to manage job listings, track job statistics, and update their profiles. The project includes features such as user authentication, job filtering, and dynamic data visualization.
 
+## Live Demo
+
+Check out the live demo of the project here:
+[Live Demo](http://jobifymz.up.railway.app/)
+
 ## Features
 
 ### 1. User Management
