@@ -36,9 +36,6 @@ Jobify Dashboard is a full-stack job management application that allows users to
 - **Frontend:** React, Context API, useReducer, Axios, styled-components, JavaScript, recharts
 - **Backend:** Node.js, Express, MongoDB, bcryptjs, jsonwebtoken, mongoose
 
-## Project Structure
-
-
 ## Setup Instructions
 ```bash
 git clone https://github.com/mmahmoud95/Jobify
