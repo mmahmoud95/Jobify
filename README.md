@@ -41,7 +41,7 @@ Jobify Dashboard is a full-stack job management application that allows users to
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/your-username/jobify-dashboard.git
+git clone https://github.com/mmahmoud95/Jobify
 
 install dependency for server
 npm install
